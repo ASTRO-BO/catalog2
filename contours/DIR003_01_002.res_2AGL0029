@@ -1,0 +1,28 @@
+! Label, Fix, index, UL conf. level, srcloc conf. level, start l, start b, start flux, [ lmin , lmax ], [ bmin, bmax ]
+! sqrt(TS)
+! L_peak, B_peak, Dist from initial position
+! L, B, Dist from initial position, r, a, b, phi
+! Counts, Err, +Err, -Err, UL
+! Flux, Err, +Err, -Err, UL, Exp
+! Index, Err
+! cts, fcn0, fcn1, edm0, edm1, iter0, iter1
+! Gal coeffs and errs
+! Gal zero coeffs and errs
+! Iso coeffs and errs
+! Iso zero coeffs and errs
+! Start date, end date
+! Emin..emax, fovmin..fovmax, albedo, binsize, expstep, phasecode
+2AGL0029 3 2.1 2 5.99147 26.2836 0.113792 4.1676e-07 [ -1 , -1 ]  [ -1 , -1 ] 
+10.9606
+26.2431 0.118649 0.0407564
+26.2212 0.103133 0.063303 0.174075 0.16359 0.186545 -25.2209 
+1419.36 139.373 140.222 -138.516 1701.5
+4.72941e-07 4.64401e-08 4.67229e-08 -4.61545e-08 5.66953e-07 3.00114e+09
+2.1 0
+104732 17176.8 17116.7 0.5 1.29157e-09 3 77
+0.561915 0
+0.561915 0
+13.1032 0
+13.1032 0
+2007-07-13T12:00:00 2009-10-15T12:01:05
+100..50000 0..50 80 0.1 0 2
