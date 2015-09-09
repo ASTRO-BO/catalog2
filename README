@@ -1,3 +1,6 @@
+9 Sept 2015
+cat2.res3 contains the new spectral indexes (for sources with sqrt(TS)>4) calculated in the energy range 50-1000.
+The fluxes has to be recalculated
 
 selection with exp > 5.4e8 
 
