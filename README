@@ -1,8 +1,19 @@
+
+05 October 2015
+Inizia il lavoro su cat2.res4. Si prendono solo gli SI con sqrt(TS)>5
+Dir: res5
+res4 annullato
+
+18 September 2014
+Dir: res4
+Analisi delle sorgenti con gli indici spettrali calcolati in res3, per poter correggere il flusso
+
 9 Sept 2015
 cat2.res3 contains the new spectral indexes (for sources with sqrt(TS)>4) calculated in the energy range 50-1000.
 The fluxes has to be recalculated
 
 selection with exp > 5.4e8 
+Dir: res3_SI
 
 16 May 2015
 Revision and contour dir for: 0033.0000 0056.0000
